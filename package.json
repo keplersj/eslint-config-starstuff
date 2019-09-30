@@ -1,0 +1,39 @@
+{
+  "name": "eslint-config-starstuff",
+  "version": "0.0.0-development",
+  "description": "Opinionated, yet simple ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keplersj/eslint-config-starstuff.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "react",
+    "typescript",
+    "prettier"
+  ],
+  "author": "Kepler Sticka-Jones <kepler@stickajones.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keplersj/eslint-config-starstuff/issues"
+  },
+  "homepage": "https://github.com/keplersj/eslint-config-starstuff#readme",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "jest-runner-prettier": "^0.3.1",
+    "prettier": "^1.18.2",
+    "semantic-release": "^15.13.24"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.3.2",
+    "@typescript-eslint/parser": "^2.3.2",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.14.3"
+  }
+}
