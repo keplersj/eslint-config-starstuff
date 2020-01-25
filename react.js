@@ -15,7 +15,8 @@ module.exports = {
         // Do not warn for terms normal in the React ecosystem.
         replacements: {
           ref: false,
-          props: false,
+          props: false
+        }
       }
     ]
   }
