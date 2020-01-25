@@ -4,6 +4,7 @@ module.exports = {
   extends: [
     "starstuff",
     (isDep("typescript") || isDevDep("typescript")) && "starstuff/typescript",
-    isAnyDep("react") && "starstuff/react"
+    isAnyDep("react") && "starstuff/react",
+    isDevDep("jest") && "starstuff/jest"
   ].filter(Boolean)
 };
