@@ -10,6 +10,7 @@ module.exports = {
     "prettier"
   ],
   rules: {
-    "unicorn/filename-case": 1
+    "unicorn/filename-case": 1,
+    "unicorn/prevent-abbreviations": 1
   }
 };
