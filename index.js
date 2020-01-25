@@ -8,5 +8,8 @@ module.exports = {
     // Good Code Style
     "plugin:prettier/recommended",
     "prettier"
-  ]
+  ],
+  rules: {
+    "unicorn/filename-case": "warning"
+  }
 };
