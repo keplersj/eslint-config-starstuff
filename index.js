@@ -10,6 +10,6 @@ module.exports = {
     "prettier"
   ],
   rules: {
-    "unicorn/filename-case": "warning"
+    "unicorn/filename-case": 1
   }
 };
