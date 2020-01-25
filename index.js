@@ -1,3 +1,12 @@
 module.exports = {
-  extends: ["eslint:recommended", "plugin:prettier/recommended", "prettier"]
+  extends: [
+    // Good Code Practices
+    "eslint:recommended",
+    "plugin:unicorn/recommended",
+    "plugin:eslint-comments/recommended",
+    "plugin:promise/recommended",
+    // Good Code Style
+    "plugin:prettier/recommended",
+    "prettier"
+  ]
 };
