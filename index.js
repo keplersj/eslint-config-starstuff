@@ -5,6 +5,7 @@ module.exports = {
     "plugin:unicorn/recommended",
     "plugin:eslint-comments/recommended",
     "plugin:promise/recommended",
+    "plugin:you-dont-need-lodash-underscore/compatible",
     // Good Code Style
     "plugin:prettier/recommended",
     "prettier"
