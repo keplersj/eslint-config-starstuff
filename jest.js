@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ["plugin:jest/recommended", "plugin:jest/style"]
+  extends: ["starstuff", "plugin:jest/recommended", "plugin:jest/style"]
 };
