@@ -6,6 +6,7 @@ module.exports = {
     "plugin:eslint-comments/recommended",
     "plugin:promise/recommended",
     "plugin:you-dont-need-lodash-underscore/compatible",
+    "plugin:you-dont-need-momentjs/recommended",
     // Good Code Style
     "plugin:prettier/recommended",
     "prettier"
