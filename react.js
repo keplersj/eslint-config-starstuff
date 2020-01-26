@@ -10,7 +10,7 @@ module.exports = {
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
     "unicorn/prevent-abbreviations": [
-      "warning",
+      "warn",
       {
         // Do not warn for terms normal in the React ecosystem.
         replacements: {
