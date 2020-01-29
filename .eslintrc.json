@@ -1,0 +1,6 @@
+{
+  "extends": "./auto.js",
+  "env": {
+    "node": true
+  }
+}

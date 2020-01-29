@@ -1,11 +1,11 @@
-const { isDep, isDevDep, isPeerDep, isAnyDep } = require("./lib/deps");
+const { isDep, isDevDep, isAnyDep } = require("./lib/deps");
 
 module.exports = {
   extends: [
-    "starstuff",
-    (isDep("typescript") || isDevDep("typescript")) && "starstuff/typescript",
-    isAnyDep("react") && "starstuff/react",
-    isDevDep("jest") && "starstuff/jest",
-    isAnyDep("react-dom") && "starstuff/react-dom"
+    ".",
+    (isDep("typescript") || isDevDep("typescript")) && "./typescript",
+    isAnyDep("react") && "./react",
+    isDevDep("jest") && "./jest",
+    isAnyDep("react-dom") && "./react-dom"
   ].filter(Boolean)
 };
