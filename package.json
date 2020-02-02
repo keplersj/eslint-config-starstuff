@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/keplersj/eslint-config-starstuff#readme",
   "engines": {
-		"node": ">=10"
-	},
+    "node": ">=10"
+  },
   "devDependencies": {
     "jest": "^25.1.0",
     "jest-runner-eslint": "^0.7.6",
