@@ -27,7 +27,7 @@
     "node": ">=10"
   },
   "devDependencies": {
-    "jest": "^25.1.0",
+    "jest": "^26.0.1",
     "jest-runner-eslint": "^0.8.0",
     "jest-runner-prettier": "^0.3.1",
     "prettier": "^2.0.0",
