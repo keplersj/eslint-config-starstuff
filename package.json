@@ -47,6 +47,6 @@
     "eslint-plugin-unicorn": "^19.0.0",
     "eslint-plugin-you-dont-need-lodash-underscore": "^6.8.0",
     "eslint-plugin-you-dont-need-momentjs": "^1.5.0",
-    "read-pkg-up": "^7.0.1"
+    "read-pkg-up": "^8.0.0"
   }
 }
