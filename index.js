@@ -9,15 +9,15 @@ module.exports = {
     "plugin:you-dont-need-momentjs/recommended",
     // Good Code Style
     "plugin:prettier/recommended",
-    "prettier"
+    "prettier",
   ],
   rules: {
     "unicorn/filename-case": 1,
     "unicorn/prevent-abbreviations": [
       "warn",
       {
-        checkFilenames: false
-      }
-    ]
-  }
+        checkFilenames: false,
+      },
+    ],
+  },
 };

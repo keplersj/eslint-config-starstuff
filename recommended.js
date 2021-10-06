@@ -1,3 +1,3 @@
 module.exports = {
-  extends: "./auto"
+  extends: "./auto",
 };

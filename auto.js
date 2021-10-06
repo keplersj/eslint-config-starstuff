@@ -6,6 +6,6 @@ module.exports = {
     (isDep("typescript") || isDevDep("typescript")) && "./typescript",
     isAnyDep("react") && "./react",
     isDevDep("jest") && "./jest",
-    isAnyDep("react-dom") && "./react-dom"
-  ].filter(Boolean)
+    isAnyDep("react-dom") && "./react-dom",
+  ].filter(Boolean),
 };
