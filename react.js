@@ -1,5 +1,5 @@
 module.exports = {
-  extends: [".", "plugin:react/recommended", "prettier/react"],
+  extends: [".", "plugin:react/recommended"],
   settings: {
     react: {
       version: "detect", // React version. "detect" automatically picks the version you have installed.
