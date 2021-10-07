@@ -13,6 +13,7 @@ module.exports = {
   ],
   rules: {
     "unicorn/filename-case": 1,
+    "unicorn/prefer-module": 1,
     "unicorn/prevent-abbreviations": [
       "warn",
       {
