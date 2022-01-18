@@ -33,7 +33,7 @@
     "jest-runner-eslint": "1.0.0",
     "jest-runner-prettier": "0.3.7",
     "prettier": "2.5.1",
-    "semantic-release": "18.0.1"
+    "semantic-release": "19.0.2"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.0.0",
