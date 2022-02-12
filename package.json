@@ -28,7 +28,7 @@
     "node": ">=10"
   },
   "devDependencies": {
-    "eslint": "7.32.0",
+    "eslint": "8.9.0",
     "jest": "27.5.1",
     "jest-runner-eslint": "1.0.0",
     "jest-runner-prettier": "0.3.7",
