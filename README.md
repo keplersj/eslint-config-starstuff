@@ -1,5 +1,10 @@
 # eslint-config-starstuff
 
+[![npm](https://img.shields.io/npm/v/eslint-config-starstuff)](https://www.npmjs.com/package/eslint-config-starstuff)
+[![npm](https://img.shields.io/npm/dw/eslint-config-starstuff)](https://www.npmjs.com/package/eslint-config-starstuff)
+[![Bundle Size](https://img.shields.io/bundlephobia/min/eslint-config-starstuff)](https://bundlephobia.com/package/eslint-config-starstuff)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://www.conventionalcommits.org/)
+
 Opinionated, yet simple ESLint config
 
 ## Philosophy
